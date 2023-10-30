@@ -17,7 +17,6 @@ body {
 
 .card {
     display: flex;
-    align-items: center;
     width: 760px;
     height: 530px;
     background-color: white;
